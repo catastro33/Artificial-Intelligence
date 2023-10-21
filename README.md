@@ -1,1 +1,1 @@
-# Data-Science-
+This directory contains Fundamentals of Python
